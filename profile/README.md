@@ -1,7 +1,7 @@
 # Beep 🛰
 
-**Satellytes** is a technology company from Munich with ambitious software engineer & designers. 
+At **Satellytes** , we're constantly seeking talented software engineers to join our team of ambitious and creative minds. We're a technology company based in Munich, and we're passionate about using technology to inspire and improve people's lives.
 
-*Our goal is to inspire people with technology.* That's why we develop and design software products on a company-wide level. Those project are mostly enterprise projects and they have a huge impact on the digital business of the companies. 
+Our team is made up of talented software engineers and designers who are always pushing the boundaries of what's possible in the world of technology. We work on enterprise-level projects that have a significant impact on the digital business of the companies we partner with.
 
-Visit our [Career Page](https://satellytes.com/career/) or check out our [Blog](https://satellytes.com/blog/)
+If you're an ambitious software engineers looking to work on exciting projects that make a real difference, then we want to hear from you. Check out our [career page](https://satellytes.com/career/) to see our current openings, or head over to our [blog](https://satellytes.com/blog/) to learn more about our team and what we do.
